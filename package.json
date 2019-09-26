@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-heron/api-day-Shannon/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-heron/api-day-Shannon#readme"
+  "homepage": "https://github.com/thinkful-ei-heron/api-day-Shannon#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
